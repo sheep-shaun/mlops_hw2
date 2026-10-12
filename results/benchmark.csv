@@ -1,0 +1,4 @@
+variant,runs,median_duration_ms,read_rows,read_bytes,table_bytes_on_disk
+baseline,10,8.0,262144,9574796,17774797
+optimized_no_projection,10,11.0,262144,2652730,12615525
+optimized,10,6.0,1491,219657,12615525

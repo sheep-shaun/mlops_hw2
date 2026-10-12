@@ -1,0 +1,8 @@
+.git
+.venv
+**/__pycache__
+data/*
+!data/demo.csv
+.env
+.kaggle
+.ruff_cache

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.kaggle/
+data/*.csv
+data/*.zip
+!data/demo.csv
+.ruff_cache/
